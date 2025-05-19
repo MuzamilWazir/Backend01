@@ -1,0 +1,11 @@
+.Heading {
+  text-align: center;
+  background: white;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+  position: relative;
+  left: 10px;
+  margin-right: 10px;
+  
+}
